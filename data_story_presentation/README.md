@@ -1,11 +1,12 @@
 ## Presentation of your data story for COMM318 _Stories from data_ Final Project
 
-* This folder should contain the files that contain the output of all your data analysis. You can choose how you want to present your data story.
+This project is created as a tool for philanthropic consulting. There is a lot of power held within this data and the analysis carried out that can be pushed forward and implemented to create change that will serve Philadelphia. All of this data is publicly available, but must be understood and applied for the type of systematic change that needas to occur. In this project I will go through the steps of how to analyze, understand, use and apply this data to create positive change.
 
+My data analysis folder begins analyzing data in a CSV form to which I quickly realized was not as useful for this project and began to analyze and explore geodata which contained specific locations by zipcode, neighborhood, and other identifiers specifically in the city of Philadelphia. This gave me the unique ability to map my data in a way that was easy to read, digest, analyze, and draw conclusions.
 
-* Update this README file to describe the presentation.
+I collected geojson data from 8 different data sets that I found on Philly Open Data. My Data sources are titled, "Farmer's Market Locations", "Walkable Access to Healthy Food", "Neighborhood Food Retail", "Parks and Recreation Out of School Time Programs", "Philly Rising Boundaries", "PPR Hydration Stations", "PPR Adult Exercise Equipment" and Farmer's Markets "Acceptance of PhillyFoodBucks",-- which will be plotted and analyzed below in tandem with the supporting data of "Philly Zip Codes Geo File". I began with counting, reading, plotting and understanding the Data -- I then began a uniform collection of data onto a map of Philadelphia, comparing all of my data to the same visual map made which makes it easier for me and any audience to quickly and clearly see what the data patterns were and give ideas on how to mend these systems. I deep dive into the poverty levels in Philadelphia and cross analyze them with my accessibility score.
 
-
+My aim is to publish my data analysis to two separate types of institutions. I'd like to bring my data to food shelters and aid programs to allow them to use the statistics on their websites, in brochures, and to acquire donors/volunteers. My other goal is to bring my findings to government agencies to request institutional change within Philadelphia and put government programs in place that will target and relieve the food related anxiety that many Philadelphia constituents are feeling.
 
 
 
